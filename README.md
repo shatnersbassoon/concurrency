@@ -1,1 +1,1 @@
-CONCURRENCY BOOK
+Go Concurrency book
